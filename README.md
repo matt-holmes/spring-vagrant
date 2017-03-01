@@ -19,7 +19,7 @@
 10. export PATH=$PATH:/opt/gradle/gradle-3.2.1/bin
 
 
-##Check packages:
+##Verify packages:
 * gradle -v
         
         Gradle 3.2.1
