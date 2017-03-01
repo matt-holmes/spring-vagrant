@@ -21,9 +21,9 @@
 
 ##Check packages:
 * gradle -v
-        ------------------------------------------------------------
+        
         Gradle 3.2.1
-        ------------------------------------------------------------
+       
 
         Build time:   2016-11-22 15:19:54 UTC
         Revision:     83b485b914fd4f335ad0e66af9d14aad458d2cc5
@@ -34,6 +34,6 @@
         OS:           Linux 3.13.0-85-generic amd64
     
 * java -version
-    java version "1.8.0_121"
-    Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
-    Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
+        java version "1.8.0_121"
+        Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
+        Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
