@@ -1,6 +1,9 @@
 # Sprint Vagrant
 ---
-## Setup:
+## Prerequisite
+1. install vagrant - https://www.vagrantup.com/
+
+## Setup (time 10mins):
 1. git clone https://github.com/matt-holmes/spring-vagrant.git
 2. cd spring-vagrant
 3. vagrant up
