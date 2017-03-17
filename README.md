@@ -9,7 +9,7 @@
 3. vagrant up
 4. vagrant ssh
 
-## Install additional packages:
+### Install additional packages:
 1. sudo add-apt-repository ppa:webupd8team/java
 2. sudo apt-get update
 3. sudo apt-get install oracle-java8-installer -y
@@ -19,7 +19,7 @@
 7. sudo unzip -d /opt/gradle/ gradle-3.2.1-bin.zip
 8. export PATH=$PATH:/opt/gradle/gradle-3.2.1/bin
 
-## Optional packages:
+### Optional packages:
 1. sudo apt-get install mysql-server -y
 2. sudo apt-get install git -y
 
