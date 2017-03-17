@@ -13,14 +13,15 @@
 1. sudo add-apt-repository ppa:webupd8team/java
 2. sudo apt-get update
 3. sudo apt-get install oracle-java8-installer -y
-4. sudo apt-get install mysql-server -y
-5. sudo apt-get install git -y
-6. sudo apt-get install unzip -y
-7. curl -O https://downloads.gradle.org/distributions/gradle-3.2.1-bin.zip
-8. sudo mkdir /opt/gradle/
-9. sudo unzip -d /opt/gradle/ gradle-3.2.1-bin.zip
-10. export PATH=$PATH:/opt/gradle/gradle-3.2.1/bin
+4. sudo apt-get install unzip -y
+5. curl -O https://downloads.gradle.org/distributions/gradle-3.2.1-bin.zip
+6. sudo mkdir /opt/gradle/
+7. sudo unzip -d /opt/gradle/ gradle-3.2.1-bin.zip
+8. export PATH=$PATH:/opt/gradle/gradle-3.2.1/bin
 
+## Optional packages:
+1. sudo apt-get install mysql-server -y
+2. sudo apt-get install git -y
 
 ##Verify packages:
 * gradle -v
