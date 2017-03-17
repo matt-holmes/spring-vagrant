@@ -23,7 +23,7 @@
 1. sudo apt-get install mysql-server -y
 2. sudo apt-get install git -y
 
-##Verify packages:
+## Verify packages:
 * gradle -v
         
         Gradle 3.2.1
