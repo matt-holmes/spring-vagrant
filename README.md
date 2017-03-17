@@ -1,4 +1,4 @@
-# Sprint Vagrant
+# Spring Vagrant
 ---
 ## Prerequisite
 1. install vagrant - https://www.vagrantup.com/
